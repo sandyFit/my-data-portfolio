@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Sandra Ramos</title>
+    <link>/</link>
+    <description>Recent content in Home on Sandra Ramos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 Days of Data Analytics Challenge</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>100 Days of Data Analytics Challenge Day 1-10: Data Analysis Fundamentals •	Introduction to data analytics and its importance •	Understanding different types of data and data formats •	Exploring data analysis tools and software (e.g., Excel, Python, R)
+Day 11-20: Data Cleaning and Preprocessing •	Techniques for data cleaning, handling missing values, and outliers •	Data preprocessing steps such as data normalization and feature scaling •	Exploring data manipulation libraries (e.</description>
+      <content>&lt;h1 id=&#34;100-days-of-data-analytics-challenge&#34;&gt;100 Days of Data Analytics Challenge&lt;/h1&gt;
+&lt;h2 id=&#34;day-1-10&#34;&gt;Day 1-10:&lt;/h2&gt;
+&lt;h3 id=&#34;data-analysis-fundamentals&#34;&gt;Data Analysis Fundamentals&lt;/h3&gt;
+&lt;p&gt;•	Introduction to data analytics and its importance
+•	Understanding different types of data and data formats
+•	Exploring data analysis tools and software (e.g., Excel, Python, R)&lt;/p&gt;
+&lt;h2 id=&#34;day-11-20&#34;&gt;Day 11-20:&lt;/h2&gt;
+&lt;h3 id=&#34;data-cleaning-and-preprocessing&#34;&gt;Data Cleaning and Preprocessing&lt;/h3&gt;
+&lt;p&gt;•	Techniques for data cleaning, handling missing values, and outliers
+•	Data preprocessing steps such as data normalization and feature scaling
+•	Exploring data manipulation libraries (e.g., Pandas)&lt;/p&gt;
+&lt;h2 id=&#34;day-21-30&#34;&gt;Day 21-30:&lt;/h2&gt;
+&lt;h3 id=&#34;exploratory-data-analysis-eda&#34;&gt;Exploratory Data Analysis (EDA)&lt;/h3&gt;
+&lt;p&gt;•	Techniques for visualizing and summarizing data
+•	Identifying patterns, trends, and relationships in data
+•	Using EDA libraries (e.g., Matplotlib, Seaborn)&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello, I&amp;rsquo;m Sandra, a novice Python data analyst and coder. I have a deep passion for the advancements in Artificial Intelligence and its profound impact on our society&amp;rsquo;s future.
+This website serves as a documentation of my journey into the realms of Data Analytics and Machine Learning, where I will also showcase my personal projects.
+My aim is to continuously enhance my analytics skills by diving into hands-on experiences and applying cutting-edge techniques.</description>
+      <content>&lt;p&gt;Hello, I&amp;rsquo;m Sandra, a novice Python data analyst and coder. I have a deep passion for the advancements in Artificial Intelligence and its profound impact on our society&amp;rsquo;s future.&lt;/p&gt;
+&lt;p&gt;This website serves as a documentation of my journey into the realms of Data Analytics and Machine Learning, where I will also showcase my personal projects.&lt;/p&gt;
+&lt;p&gt;My aim is to continuously enhance my analytics skills by diving into hands-on experiences and applying cutting-edge techniques.&lt;/p&gt;
+&lt;p&gt;There is no PhD’s on my wall, but I firmly believe that the best way to learn is by doing, and I&amp;rsquo;m excited to tackle challenges, explore new methodologies, and make effective use of data to drive impactful decisions.&lt;/p&gt;
+&lt;p&gt;Beyond my personal growth, I am equally driven to inspire fellow beginners in analytics.
+I understand the challenges faced by newcomers and the importance of effectively communicating their own projects.&lt;/p&gt;
+&lt;p&gt;By sharing my experiences, providing guidance, and fostering a supportive community, I aim to empower others to confidently showcase their work and make a meaningful impact in the analytics world.&lt;/p&gt;
+&lt;h1 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h1&gt;
+&lt;p&gt;Coming from a background in Graphic Design, I have a keen eye for data visualization. Transforming complex datasets into easily understandable visual representations has become my hobby. I consider Python plotting libraries to be my closest allies in achieving this.&lt;/p&gt;
+&lt;p&gt;My technical journey began with a strong focus on software development, UI design, and backend engineering, which I pursued through intensive bootcamps.
+These experiences provided a solid foundation for my subsequent exploration of data analytics and machine learning, which I also delved into through a dedicated bootcamp.&lt;/p&gt;
+&lt;p&gt;Along the way, I gained a deep understanding of Python and SQL, and proficiency in HTML, CSS, JavaScript, and Java.&lt;/p&gt;
+&lt;p&gt;I am thrilled to leverage these skills to extract insights from data, create compelling narratives that resonate with diverse audiences and craft impactful presentations of those insights.&lt;/p&gt;
+&lt;p&gt;Feel free to explore my portfolio and join me on this exciting journey of discovery and growth in the realm of Data Analytics and Machine Learning.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

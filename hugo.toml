@@ -1,0 +1,51 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Sandra Ramos'
+theme = 'Terminal'
+paginate = 5
+
+[params]
+contentTypeName = "posts"
+themeColor = "red"
+showMenuItems = 3
+showLanguageSelector = true
+fullWidthTheme = false
+centerTheme = true
+showLastUpdated = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Sandra Ramos"
+    subtitle = "A Driven Coder and Analyst on a Quest to Solve Tough Problems with Data"
+    owner = ""
+    keywords = "Data Analytics, Data Science, Data Visualizaion, Python, SQL, Prtfolio"
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Sandra Ramos"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About Me"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog"
+
+
+
