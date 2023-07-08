@@ -1,2 +1,8 @@
-[context.production.environment]
-HUGO_VERSION = "0.115.1"
+[build]
+    publish = "exampleSite/public"
+    command = "cd exampleSite && hugo --gc --themesDir ../.."
+
+[build.environment]
+    HUGO_VERSION = "0.115.1"
+    HUGO-THEME = "Terminal"
+    HUGO_BASEURL = "/"

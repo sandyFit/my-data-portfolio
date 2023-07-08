@@ -1,4 +1,4 @@
-baseURL = 'https://sandyfit.github.io/my-data-portfolio/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Sandra Ramos'
 theme = 'Terminal'
